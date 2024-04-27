@@ -1,6 +1,6 @@
 # Family Maps Tracker
 
-(images/Example-1.png)
+[Example](images/Example-1.png)
 
 ## Overview
 Family Maps Tracker is an interactive web application designed to help users track and visualize the countries that they and their family members have visited. The application features a dynamic world map where users can add or remove countries to their visited list, manage family member profiles, and view the travel history in a colorful, intuitive format.
@@ -12,7 +12,7 @@ Family Maps Tracker is an interactive web application designed to help users tra
 - Responsive Design: Fully responsive web design that adjusts to various devices and screen sizes, ensuring a seamless experience on desktops, tablets, and smartphones.
 - Interactive UI: Users can interact with the map and the user interface to dynamically add or delete countries and users.
 
-(images/Example-2.png)
+[Example](images/Example-2.png)
 
 ## Technologies Used
 Node.js: Server-side JavaScript runtime environment that runs on the V8 engine and executes JavaScript code outside a web browser.
