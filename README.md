@@ -43,7 +43,7 @@ npm install
 
 3. Setup the database:
 - Ensure PostgreSQL is running.
-- Create a database named world and import any necessary initial data or schema from a provided SQL file.
+- Create a database named `world` and import any necessary initial data or schema from a provided SQL file.
 
 4. Environment Configuration:
 - Set up your database credentials and any other configurations in an .env file or directly within your application code.
