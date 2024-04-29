@@ -46,7 +46,17 @@ npm install
 - Create a database named `world` and import any necessary initial data or schema from a provided SQL file.
 
 4. Environment Configuration:
-- Set up your database credentials and any other configurations in an .env file or directly within your application code.
+For security reasons, configure your database credentials and other sensitive data using environment variables. Create a `.env` file in the root directory of your project and add the following:
+
+```plaintext
+DB_USER=yourusername
+DB_HOST=localhost
+DB_DATABASE=permalist
+DB_PASSWORD=yourpassword
+DB_PORT=5432
+```
+
+Replace the placeholders with your actual database configuration.
 
 5. Start the application:
 ```
